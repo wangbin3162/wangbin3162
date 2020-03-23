@@ -18,6 +18,8 @@ module.exports = {
         text: '开源库',
         items: [
           { text: 'bin-ui', link: 'https://github.com/wangbin3162/bin-ui/' },
+          { text: 'bin-code-editor', link: 'https://github.com/wangbin3162/bin-code-editor/' },
+          { text: 'bin-charts', link: 'https://github.com/wangbin3162/bin-charts/' },
           { text: 'bin-tree-org', link: 'https://github.com/wangbin3162/bin-tree-org/' },
           { text: 'bin-animation', link: 'https://github.com/wangbin3162/bin-animation/' },
           { text: 'bin-keyframe-animation', link: 'https://github.com/wangbin3162/bin-keyframe-animation/' },

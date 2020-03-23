@@ -4,17 +4,31 @@
 
 收录基于vue开发的UI库、动画库、admin管理系统、数据可视化平台等一系列个人开源库文档和预览地址。
 
+
+
 ***bin-ui*** 基于vue2.6的UI组件库
 
 <a href="https://github.com/wangbin3162/bin-ui/" target="_blank">Github 仓库</a> | 
 <a href="https://gitee.com/wangbin3162/bin-ui/" target="_blank">码云仓库</a> | 
 <a href="https://wangbin3162.gitee.io/bin-ui/" target="_blank">文档说明</a>
 
+***bin-code-editor*** 基于vue，代码编辑器
+
+<a href="https://github.com/wangbin3162/bin-code-editor/" target="_blank">Github 仓库</a> | 
+<a href="https://gitee.com/wangbin3162/bin-code-editor/" target="_blank">码云仓库</a> | 
+<a href="https://wangbin3162.gitee.io/bin-code-editor/" target="_blank">文档说明</a>
+
 ***bin-tree-org*** 树形组织图组件
 
 <a href="https://github.com/wangbin3162/bin-tree-org/" target="_blank">Github 仓库</a> | 
 <a href="https://gitee.com/wangbin3162/bin-tree-org/" target="_blank">码云仓库</a> | 
 <a href="https://wangbin3162.gitee.io/bin-tree-org" target="_blank">文档说明</a>
+
+***bin-charts*** 基于vue、 echarts的图表封装组件
+
+<a href="https://github.com/wangbin3162/bin-charts/" target="_blank">Github 仓库</a> | 
+<a href="https://gitee.com/wangbin3162/bin-charts/" target="_blank">码云仓库</a> | 
+<a href="https://wangbin3162.gitee.io/bin-charts/" target="_blank">文档说明</a>
 
 ***bin-animation*** 基于vue transition钩子函数的css3动画库
 
@@ -61,7 +75,6 @@
 
 <a href="https://github.com/wangbin3162/bin-lib/" target="_blank">Github 仓库</a> | 
 <a href="https://gitee.com/wangbin3162/bin-lib/" target="_blank">码云仓库</a>
-
 
 ## 其他页面示例
 
